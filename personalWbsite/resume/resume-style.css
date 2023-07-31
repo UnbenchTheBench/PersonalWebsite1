@@ -1,0 +1,88 @@
+
+  body {
+    color: #441b07;
+  }
+  
+  div#resume {
+    min-width: 310px;
+    font: 16px Helvetica, Avernir, sans-serif;
+    line-height: 24px;
+    color: #441b07;
+  }
+  div#resume h1 {
+    margin: 0 0 16px 0;
+    padding: 0 0 16px 0;
+    font-size: 42px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    border-bottom: 1px solid #4c0e04;
+    line-height: 50px;
+  }
+  div#resume p {
+    margin: 0 0 16px 0;
+  }
+  div#resume dl {
+    display: table-row;
+  }
+
+  div#resume {
+    min-width: 310px;
+    font: 16px Helvetica, Avernir, sans-serif;
+    line-height: 24px;
+  }
+
+  div#resume h2 {
+    font-size: 20px;
+    margin: 0 0 6px 0;
+    position: relative;
+  }
+  div#resume h2 span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 14px;
+    font-weight: normal;
+    color: black;
+  }
+
+  div#resume dt {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+    padding: 0 26px 0 0;
+    width: 150px;
+    border-right: 1px solid #f5d4a9;
+  }
+  div#resume dl {
+    display: table-row;
+  }
+  div#resume dl dt,
+  div#resume dl dd {
+    display: table-cell;
+    padding-bottom: 20px;
+  }
+  div#resume dl dd {
+    width: 500px;
+    padding-left: 26px;
+  }
+
+  p{
+    font-size: 20px;
+  }
+
+  p a{
+    font-size: 24px;
+  }
+
+  h2 span{
+    color: #441b07;
+  }
+
+  li{
+    font-size: 18px;
+  }
+
+  dd{
+    font-size: 18px;
+  }
